@@ -11,7 +11,7 @@ Ultima instanță este de asemenea afișată și este afișat un mesaj că numă
 
 Builder permite construirea unor obiecte complexe într-un mod pas cu pas și oferă o modalitate de a crea obiecte care sunt imutabile (câmpurile sunt finale).
 
-2. Acest cod utilizează Decorator Design Pattern pentru a crea diferite tipuri de cafea, și să afișeze costurile pentru acestea.
+2. Acest cod utilizează Decorator Design Pattern pentru a crea diferite tipuri de cafea și să afișeze costurile pentru acestea.
 
 Există o clasă abstractă numită "coffee" care are un câmp "price" protejat și o metodă abstractă "getPrice". 
 
